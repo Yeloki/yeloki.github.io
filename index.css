@@ -1,0 +1,8 @@
+a:active,
+a:hover,
+a {
+    outline: none;
+    text-decoration: none;
+    color: #7b3f89;
+
+}
